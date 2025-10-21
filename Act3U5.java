@@ -16,13 +16,6 @@ public class Act3U5 {
         for (int i =0; i <=9; i++)
             System.out.println("captura los numeros decimales");
          dec [i] = sc.nextDouble();
-         sc.close();
-    }
-    public static void Regreso(Scanner sc){
-       double[]dec = new double [10];
-        for (int i =0; i<=9; i++)
-            System.out.println("captura los numeros decimales");
-         dec [i] = sc.nextDouble(); 
-    }
-    p
+    } 
+    
 }
