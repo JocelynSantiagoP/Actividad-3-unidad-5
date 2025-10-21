@@ -1,6 +1,4 @@
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- */
+
 
 package com.mycompany.act3u5;
 import java.util.Scanner;
@@ -17,5 +15,6 @@ public class Act3U5 {
             System.out.println("captura los numeros decimales");
          dec [i] = sc.nextDouble();
     } 
-    
+    public static void regreso(double[]) 
+return Act3U5; 
 }
